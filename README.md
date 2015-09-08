@@ -1,1 +1,1 @@
-# README #
+Tealeaf Academy - Introduction to Programming
