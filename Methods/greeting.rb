@@ -1,3 +1,6 @@
+# Tealeaf Intro to Programming - Methods
+# Interpolates user-submitted name into String, prints.
+
 def greeting(name)
   puts "Hey, #{name}, what's up?"
 end
