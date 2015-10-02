@@ -1,1 +1,0 @@
-Tealeaf Academy - Introduction to Programming

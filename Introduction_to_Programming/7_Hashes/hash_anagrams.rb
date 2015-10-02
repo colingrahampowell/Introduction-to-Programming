@@ -5,10 +5,10 @@ words =  ['demo', 'none', 'tied', 'evil', 'dome', 'mode', 'live',
           'fowl', 'veil', 'wolf', 'diet', 'vile', 'edit', 'tide',
           'flow', 'neon']
 
-solution = {}
+solution = []
 
-sort_array = words.map {|i| i.split(//).sort }
+anagrams = words.each_with_object(Hash.new []) do |word, hash|
+  hash[word.chars.sort] += [word]
+end 
 
-sort_array.map! {|i| i.join}
-
-sort_array.each do |i|
+anagrams.each_value {|i| p i}
