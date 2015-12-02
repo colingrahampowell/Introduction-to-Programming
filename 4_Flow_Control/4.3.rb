@@ -1,5 +1,9 @@
-# Take user input from 1 to 100, report back if number is between 0 and 50, 
-#51 and 100, or above 100.
+#Tealeaf Introduction to Programming
+#Chapter 4: Flow Control
+#Question 3
+
+#Write a program that takes a number from the user between 0 and 100 and 
+#reports back whether the number is between 0 and 50, 51 and 100, or above 100.
 
 puts "Gimme a number - Hey, not so fast! Gotta be between one and a-hundred"
 

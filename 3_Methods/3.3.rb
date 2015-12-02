@@ -1,6 +1,9 @@
-# Tealeaf Intro to Programming exercise.
-#Multiplies two user-submitted values. 
+#Tealeaf Introduction to Programming
+#Chapter 3: Methods
+#Question 3
 
+#Write a program that includes a method called multiply that takes two 
+#arguments and returns the product of the two numbers.
 
 def multiply (a=0,b=0)
   return a*b

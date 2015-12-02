@@ -1,5 +1,8 @@
+#Tealeaf Introduction to Programming
+#Chapter 3: Methods
+#Chapter Exercises
+
 # Example of a method that modifies its argument permanently 
-# mutate.rb
 
 a = [1,2,3]
 

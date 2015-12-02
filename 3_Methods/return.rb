@@ -1,4 +1,8 @@
-# return.rb 
+#Tealeaf Introduction to Programming
+#Chapter 3: Methods
+#Chapter Exercises
+
+# return.rb demonstrates explicit returns in Ruby.
 
 def add_three (number)
   return number + 3

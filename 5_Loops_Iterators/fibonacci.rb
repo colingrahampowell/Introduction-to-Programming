@@ -1,4 +1,8 @@
-#fibonacci.rb
+#Tealeaf Introduction to Programming
+#Chapter 5: Loops & Iterators
+#Chapter Exercises
+
+#fibonacci.rb - example of a fibonacci number generator using recursion.
 
 def fibonacci (number)
   if number < 2

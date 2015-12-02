@@ -1,5 +1,12 @@
-# check_array.rb
-# check if value appears in array
+#Tealeaf Introduction to Programming
+#Chapter 6: Arrays
+#Question 1
+
+#Below we have given you an array and a number. 
+#Write a program that checks to see if the number appears in the array.
+
+#N.B. - This answer goes a little further and asks the user for a number that is checked
+#against the array.
 
 def check_array(arr, num)
 

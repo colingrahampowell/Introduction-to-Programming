@@ -1,4 +1,8 @@
-# let's try to manipulate an array
+#Tealeaf Introduction to Programming
+#Chapter 5: Loops & Iterators
+#Chapter Exercises
+
+# let's try to manipulate an array with the map! command.
 
 name = [ 'Johnny', 'Pat', 'Mergatroid', 'Dumbo', 'Catamaran', 'Samuel', 'Tapir' ]
 ##x = 1

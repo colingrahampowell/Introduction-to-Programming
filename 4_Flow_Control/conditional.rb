@@ -1,4 +1,8 @@
-#conditional.rb
+#Tealeaf Introduction to Programming
+#Chapter 4: Flow Control
+#Chapter Exercises
+
+#conditional.rb - experimenting with conditionals in Ruby.
 
 puts "Put in a number"
 a = gets.chomp.to_i

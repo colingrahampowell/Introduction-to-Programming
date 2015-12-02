@@ -1,4 +1,8 @@
-#practice_each.rb
+#Tealeaf Introduction to Programming
+#Chapter 5: Loops & Iterators
+#Chapter Exercises
+
+#practice_each.rb - use each to print an ordered list.
 
 name = [ 'Johnny', 'Pat', 'Mergatroid', 'Dumbo', 'Catamaran', 'Samuel', 'Tapir' ]
 x = 1

@@ -1,6 +1,9 @@
-#hash_contains.rb
-#check if hash contains a value. print results.
+#Tealeaf Introduction to Programming
+#Chapter 7: Hashes
+#Question 5
 
+#What method could you use to find out if a Hash contains 
+#a specific value in it? Write a program to demonstrate this use.
 
 stats = {name: "Colin", age: 29, weight: "130 lbs"}
 

@@ -1,4 +1,10 @@
-# iterating_over_hashes.rb
+#Tealeaf Introduction to Programming
+#Chapter 7: Hashes
+#Chapter Exercises
+
+
+# iterating_over_hashes.rb -  access and print keys and values of a hash.
+
 # added conditionals to switch grammar if key ends with s
 # not grammatically sound (some plural words don't end with s, and vice versa)
 # to do: figure out a better way to switch (nest hashes with 'plural' key?)

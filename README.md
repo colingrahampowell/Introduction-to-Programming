@@ -1,1 +1,1 @@
-Tealeaf Academy - Introduction to Programming
+Launch School - Introduction to Programming

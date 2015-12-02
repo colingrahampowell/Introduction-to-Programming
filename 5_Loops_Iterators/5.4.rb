@@ -1,4 +1,8 @@
-# create a recursive method that counts..down..to..one!
+#Tealeaf Introduction to Programming
+#Chapter 5: Loops & Iterators
+#Question 4
+
+# Create a recursive method that counts..down..to..one!
 
 def countdown(num)
   if num <= 1

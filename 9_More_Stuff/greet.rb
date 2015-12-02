@@ -1,4 +1,9 @@
-#greet.rb
+#Tealeaf Introduction to Programming
+#Chapter 9: More Stuff
+#Chapter Exercises 
+
+#greet.rb - more complex example of error stack tracing.
+#NB - this code, as written, will produce an error. 
 
  def space_out_letters(person)
   return person.split("").join(" ")
