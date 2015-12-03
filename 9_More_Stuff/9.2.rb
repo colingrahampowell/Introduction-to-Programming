@@ -11,4 +11,4 @@ end
 execute { puts "Hello from inside the execute method!" }
 
 #Prints nothing to the string (no call method on the block object).
-#Returns nil.
+#Returns a Proc object. 
